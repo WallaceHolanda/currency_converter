@@ -1,6 +1,8 @@
 # currency_converter
 
-<img src = "imag/conversor.jpg">
+<center>
+<img src = "img/conversor.jpg" width="300" align="middle">
+</center>
 <h2>🔎 Tecnologias Utilizadas<h2>
 
 <ul>
