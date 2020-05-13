@@ -1,6 +1,8 @@
 # currency_converter
 
-<img src = "img/conversor.jpg" width="300" background-position = "center">
+<h1 align="center">
+  <img src = "img/conversor.jpg" width="300">
+</h1>
 
 ## 🔎 Tecnologias Utilizadas
 <ul>
@@ -11,7 +13,7 @@
 
 ## 💻 Sobre o Projeto
  
-<h3>Este projeto se caracteriza como um conversor de moedas, possibilitando a visualização 
+Este projeto se caracteriza como um conversor de moedas, possibilitando a visualização 
   do valor equilivalente entre os valores do Euro, Dólar e Real.
  
 ## 🚀 Como Contribuir
